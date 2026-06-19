@@ -111,9 +111,7 @@ export default function Start () {
                 
         
             <h1 className='text-4xl font-bold text-pink-900 font-anta'>Type Your Speed</h1>
-            <h1 className="text-blue-800 font-baloo font-bold text-xl flex">Upgrade your typing skills wit <p className="text-black">h our interactive speed test!</p></h1>
-
-
+            <h1 className="bg-gradient-to-r from-pink-500 via-purple-500 to-blue-500 bg-clip-text text-transparent font-baloo font-bold text-xl lg:text-2xl">Upgrade your typing skills with our interactive speed test!</h1>
 
                 <div className="relative inline-block group content-wrapper items-center justify-center gap-8 max-w-7xl w-full m-6 select-none text-2xl font-bold font-baloo">
                     
