@@ -120,7 +120,6 @@ export default function Start () {
 
                 </div>
 
-
                 <input type="text" placeholder='Write the Text above' className='w-full max-w-2xl p-4 text-lg border-2 rounded-2xl border-gray-600 outline-none transition-all duration-300 focus:border-purple-600 focus:ring-2 focus:ring-purple-400 shadow-md bg-white text-gray-800 placeholder:text-gray-500 font-serif m-5' autoFocus='true' autoCapitalize='true' value={input} onChange={handleChange} />
 
                 <p className='text-xl font-bold text-black'>Seconds: {seconds}</p>

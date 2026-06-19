@@ -6,9 +6,9 @@ import { global } from "styled-jsx/css";
 export default function Home() {
   return (
     <>
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 min-w-screen min-h-screen bg-linear-to-br from-pink-300 via-pink-200 to-purple-300  items-center justify-center p-6">
+      <div className="flex min-w-screen min-h-screen bg-linear-to-br from-pink-300 via-pink-200 to-purple-300  items-center justify-center p-6">
 
-        <div className="content-wrapper flex flex-col lg:flex-row items-center justify-items-center gap-8 max-w-7xl w-full">
+        <div className="content-wrapper flex flex-col lg:flex-row items-center justify-center gap-8 max-w-7xl w-full">
 
           <div className="flex-1 p-8 flex items-center justify-center bg-white/10 rounded-lg min-h-80 hover:bg-linear-to-br hover:from-pink-200 hover:to-pink-300 hover:text-pink">
 
